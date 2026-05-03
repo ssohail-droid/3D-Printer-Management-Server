@@ -1,2 +1,2 @@
 # 3D-Printer-Management-Server
-A Linux-based print server I built for my high school robotics team connects 4 3D-printers over Ethernet so anyone on the team can send and manage print jobs from any device.
+I built this for my high school robotics team — a centralized print server that connects 4 3D printers over Ethernet, letting any team member queue and manage jobs from any device on the network.

@@ -17,3 +17,12 @@ After setting up Linux Mint, you'll need a slicer. This guide uses [Bambu Studio
 But any slicer with a network printing plugin will work (e.g., PrusaSlicer, OrcaSlicer, Cura).
 
 > **Note:** Make sure your slicer of choice has network printing support enabled before proceeding.
+
+## Network Setup
+
+All printers connect to the network switch via Ethernet, with a single Ethernet cable running from 
+the switch to the PC/Server.
+
+![Network Diagram](doc/images/NetDiagram.png)
+
+![Physical Setup](images/physical-setup.jpeg)

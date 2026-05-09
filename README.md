@@ -24,9 +24,7 @@ All printers connect to the network switch via Ethernet, with a single Ethernet 
 the switch to the PC/Server.
 
 <p align="center">
-  <img src="doc/images/NetDiagram.png" width="600" alt="Network Diagram">
-</p>
-
-<p align="center">
-  <img src="doc/images/physical-setup.jpeg" width="400" alt="Physical Setup">
+  <img src="doc/images/NetDiagram.png" width="45%" alt="Network Diagram">
+  &nbsp;&nbsp;
+  <img src="doc/images/physical-setup.jpeg" width="45%" alt="Physical Setup">
 </p>

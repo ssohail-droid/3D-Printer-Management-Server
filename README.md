@@ -1,7 +1,7 @@
 # 3D-Printer-Management-Server
 I built this for my high school robotics team — a centralized print server that connects 4 3D printers over Ethernet, letting any team member queue and manage jobs from any device on the network.
 
-## Required Components & Tools
+## Parts
 
 - Printers (using 4 for this example)
 - PC (Anything that can run Linux)
@@ -9,3 +9,8 @@ I built this for my high school robotics team — a centralized print server tha
 - [WiFi Router](https://www.amazon.com/WiFi-6-Router-Gigabit-Wireless/dp/B08H8ZLKKK/ref=sr_1_3?sr=8-3)
 - Ethernet cables
 - Zip ties
+
+## Management-Server
+- PC (Anything that can run Linux) — *Dell OptiPlex 7050, Intel i3, 8GB RAM, 256GB SSD*
+We'll be using [Linux Mint](https://www.linuxmint.com/) for this build. It's easy to use, beginner-friendly, and just works out of the box.
+

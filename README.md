@@ -80,3 +80,50 @@ If your printer is still not displayed, please check if the Printer and Bambu St
 <p align="center">
   <img src="doc/images/X1-HD/connection.png" width="600" alt="Network Diagram">
 </p>
+
+## Bambu P1P/P1S — LAN Only Mode
+
+### Step 1: Enable LAN Only mode on the printer side.
+
+- Navigate to Settings → WLAN and select it. Here, you can find the LAN Only Mode option.
+
+<p align="center">
+  <img src="doc/images/P1S/pap_lan_mode1.png" width="600" alt="Network Diagram">
+</p>
+
+- The LAN Only Mode option is initially set to OFF. You can turn on this option here.
+
+<p align="center">
+  <img src="doc/images/P1S/pap_lan_mode2.png" width="600" alt="Network Diagram">
+</p>
+
+Confirm the selection by selecting "Yes"
+
+<p align="center">
+  <img src="doc/images/P1S/pap_lan_mode3.png" width="600" alt="Network Diagram">
+</p>
+
+- When the LAN Only Mode option changes to "ON," it indicates that the switch has been successful. Take note of the Access Code.
+
+<p align="center">
+  <img src="doc/images/P1S/pap_lan_mode4.png" width="600" alt="Network Diagram">
+</p>
+
+### Step 2: Bind the printer in LAN mode to Bambu Studio
+
+- Open the printer list popup under the Device page and find the printer that has been switched to LAN-only mode. 
+(The printer in LAN-only mode will have a lock icon in front of its name as shown in the image below)
+
+- This can take between 20 seconds to 60 seconds, or even longer in some rare cases. 
+If your printer is still not displayed, please check if the Printer and Bambu Studio are on the same local network, and if communication is not blocked between them. (this can happen on some Guest networks)
+
+<p align="center">
+  <img src="doc/images/P1S/x1_lan_mode4.png" width="600" alt="Network Diagram">
+</p>
+
+- Input the Printer Access Code and click "Confirm."  After the connection is confirmed, you can use the printer just like you normally would.
+
+  <p align="center">
+  <img src="doc/images/P1S/x1_lan_mode5.png" width="600" alt="Network Diagram">
+</p>
+

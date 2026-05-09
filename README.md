@@ -25,4 +25,4 @@ the switch to the PC/Server.
 
 ![Network Diagram](doc/images/NetDiagram.png)
 
-![Physical Setup](images/physical-setup.jpeg)
+![Physical Setup](doc/images/physical-setup.jpeg)

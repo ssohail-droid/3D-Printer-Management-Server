@@ -12,5 +12,6 @@ I built this for my high school robotics team — a centralized print server tha
 
 ## Management-Server
 - PC (Anything that can run Linux) — *Dell OptiPlex 7050, Intel i3, 8GB RAM, 256GB SSD*
+  
 We'll be using [Linux Mint](https://www.linuxmint.com/) for this build. It's easy to use, beginner-friendly, and just works out of the box.
 

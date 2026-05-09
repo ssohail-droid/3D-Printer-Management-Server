@@ -23,6 +23,10 @@ But any slicer with a network printing plugin will work (e.g., PrusaSlicer, Orca
 All printers connect to the network switch via Ethernet, with a single Ethernet cable running from 
 the switch to the PC/Server.
 
-![Network Diagram](doc/images/NetDiagram.png)
+<p align="center">
+  <img src="doc/images/NetDiagram.png" width="600" alt="Network Diagram">
+</p>
 
-![Physical Setup](doc/images/physical-setup.jpeg)
+<p align="center">
+  <img src="doc/images/physical-setup.jpeg" width="600" alt="Physical Setup">
+</p>

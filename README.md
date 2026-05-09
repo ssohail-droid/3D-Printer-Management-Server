@@ -28,5 +28,5 @@ the switch to the PC/Server.
 </p>
 
 <p align="center">
-  <img src="doc/images/physical-setup.jpeg" width="600" alt="Physical Setup">
+  <img src="doc/images/physical-setup.jpeg" width="400" alt="Physical Setup">
 </p>
